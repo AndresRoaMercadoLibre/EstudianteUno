@@ -1,7 +1,5 @@
 Lista de alimentos
-Leche
-Pan
-Lechuga
-Tomate
-Cebolla
-Queso Crema
+huevo
+Harina
+Aceite
+Vinagre
